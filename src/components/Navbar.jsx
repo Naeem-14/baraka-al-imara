@@ -27,7 +27,7 @@ export default function Navbar() {
           {/* Stacked Brand Typography */}
           <div className="flex flex-col">
             <h1 className="text-light font-serif text-2xl font-semibold uppercase sm:text-xl md:text-2xl">
-              Baraka Al Imra
+              BarakaAl Imra
             </h1>
             <span className="text-primary font-main mt-1 text-[10px] font-medium tracking-[0.42em] uppercase sm:text-xs">
               Developments

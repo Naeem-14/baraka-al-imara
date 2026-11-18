@@ -73,7 +73,7 @@ export default function Services() {
                   aria-hidden="true"
                 />
                 <span className="text-light/40 group-hover:text-light/80 font-main text-[10px] tracking-[0.25em] uppercase transition-colors duration-300">
-                  Baraka Standard
+                  Barakaal Standard
                 </span>
               </div>
             </div>
