@@ -68,9 +68,9 @@ export default function About() {
             {/* Narrative Paragraphs */}
             <div className="text-light/75 font-main space-y-5 text-sm leading-relaxed font-light sm:text-base">
               <p>
-                Barakaal Imra Developments was founded with a singular ambition:
-                to elevate the urban landscape through thoughtful, enduring
-                architecture. We approach every site not merely as a
+                Barakaal Emara Developments was founded with a singular
+                ambition: to elevate the urban landscape through thoughtful,
+                enduring architecture. We approach every site not merely as a
                 construction project, but as a long-term contribution to the
                 communities we serve.
               </p>
@@ -100,7 +100,7 @@ export default function About() {
             <div className="mt-10 flex items-center gap-4">
               <span className="bg-primary/50 h-px w-10" aria-hidden="true" />
               <span className="text-light/85 font-serif text-xs tracking-[0.28em] uppercase">
-                Barakaal Imra Developments
+                Barakaal Emara Developments
               </span>
             </div>
           </div>

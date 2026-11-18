@@ -19,7 +19,7 @@ export default function Footer() {
           <span className="bg-primary/40 h-6 w-px" aria-hidden="true" />
           <div className="flex flex-col">
             <span className="text-light font-serif text-xs font-semibold tracking-[0.2em] uppercase sm:text-sm">
-              Barakaal Imra
+              Barakaal Emara
             </span>
             <span className="text-primary font-main text-[8px] font-medium tracking-[0.38em] uppercase sm:text-[9px]">
               Developments
@@ -32,12 +32,12 @@ export default function Footer() {
           href="mailto:info@barakaalimra.com"
           className="text-light/75 hover:text-primary font-main text-xs tracking-[0.2em] uppercase transition-colors"
         >
-          barakaalimra@gmail.com
+          barakaalemara@gmail.com
         </a>
 
         {/* Copyright */}
         <p className="text-light/45 font-main text-[10px] tracking-[0.18em] uppercase sm:text-[11px]">
-          &copy; {currentYear} Barakaal Imra Developments
+          &copy; {currentYear} Barakaal Emara Developments
         </p>
       </div>
     </footer>

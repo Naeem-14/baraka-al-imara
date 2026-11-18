@@ -14,7 +14,7 @@ const projectsData = [
   },
   {
     id: "02",
-    title: "Al Imra Business Tower",
+    title: "Emara Business Tower",
     location: "Central Financial Quarter",
     category: "Commercial Flagship",
     status: "In Planning",
@@ -40,5 +40,4 @@ const projectsData = [
   },
 ];
 
-
-export default projectsData
+export default projectsData;

@@ -46,7 +46,7 @@ export default function Hero() {
           {/* Right: Description & CTA */}
           <div className="flex max-w-md flex-col items-start gap-6">
             <p className="text-light/80 font-main text-sm leading-relaxed font-light sm:text-base">
-              Barakaal Imra Developments shapes distinguished residential and
+              Barakaal Emara Developments shapes distinguished residential and
               commercial spaces defined by architectural precision, enduring
               quality, and refined modern living.
             </p>
